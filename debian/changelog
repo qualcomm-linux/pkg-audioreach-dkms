@@ -1,8 +1,9 @@
-audioreach-dkms (1.1.0-0qli2~bpo13+1~) UNRELEASED; urgency=medium
+audioreach-dkms (1.1.0-0qli2~bpo13+1) trixie; urgency=medium
 
+  [ Lukas Märdian ]
   * Rebuild for trixie QLI.
 
- -- Lukas Märdian <lukas.maerdian@oss.qualcomm.com>  Wed, 23 Sep 2026 09:21:10 +0200
+ -- Debusine Action Bot <noreply@bot.invalid>  Wed, 23 Sep 2026 07:22:50 +0000
 
 audioreach-dkms (1.1.0-0qli2) forky; urgency=medium
 
